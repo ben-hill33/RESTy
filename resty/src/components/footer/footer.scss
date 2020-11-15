@@ -1,0 +1,13 @@
+footer {
+  background: grey;
+  display: flex;
+  flex-direction: column;
+  height: 30%;
+  @media (max-width: 767px) {
+    flex: column;
+  }
+}
+
+p {
+  margin-left: 3%;
+}

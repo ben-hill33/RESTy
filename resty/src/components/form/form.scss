@@ -1,0 +1,16 @@
+Form {
+  // background: bisque;
+  label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .methods {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  button {
+    margin: 10px;
+  }
+}
